@@ -1,6 +1,6 @@
-# ### Boas vindas ao meu perfil
+### Boas vindas ao meu perfil :   COOLGORDY
 
-Meu nome é Leandro Tayano
+Meu nome é Leandro Tayno 
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -8,8 +8,8 @@ Meu nome é Leandro Tayano
 
 ### Você pode entrar em contato comigo :mailbox
 
-00001108160761sp@al.educacao.sp.gov.br
+00001108160761@al.educacao.sp.gov.br
+
+@Leandrotayno00
 
 
-
-![descrição do GIF](link GIF do Tenor)
